@@ -1,0 +1,6 @@
+{
+  "name": "Khaista Gul Property Dealer & Builders",
+  "description": "Premier real estate agent and builder in Peshawar. Explore properties, plots, houses, and comprehensive construction services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
